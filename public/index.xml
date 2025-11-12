@@ -29,5 +29,15 @@
       
     </item>
     
+    <item>
+      <title>How i create my homelab</title>
+      <link>http://localhost:1313/articles/article-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/articles/article-1/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/article-1/featured.jpg" />
+    </item>
+    
   </channel>
 </rss>
